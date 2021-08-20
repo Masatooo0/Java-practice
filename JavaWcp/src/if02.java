@@ -1,4 +1,5 @@
 
+
 public class if02 {
 	public static void main(String[] args) {
 		int number = 7;
